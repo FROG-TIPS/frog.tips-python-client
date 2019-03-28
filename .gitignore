@@ -1,0 +1,10 @@
+.idea/
+
+venv/
+build/
+dist/
+
+__pycache__/**
+*.py[cdo]
+
+.DS_Store
